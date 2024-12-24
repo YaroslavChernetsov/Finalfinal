@@ -14,10 +14,13 @@
 ### Чернецов Ярсолав Михайлович   ЭФБО-05-22
 ![изображение](https://github.com/user-attachments/assets/57f7c0e7-a9e9-4ed7-82f5-01e0f5164e32)
 
-![изображение](https://github.com/user-attachments/assets/96af51c7-849c-4973-ad33-64bb81418e75)
+![изображение](https://github.com/user-attachments/assets/7b2f41ad-3d01-4b87-a6ec-bff8bb07e40c)
 
-![изображение](https://github.com/user-attachments/assets/9c45ac5d-1c39-4c54-acc7-e1e1eb8c612a)
-![изображение](https://github.com/user-attachments/assets/3d415008-199e-4e39-b6a9-1137ba95f4a8)
+
+![изображение](https://github.com/user-attachments/assets/11af51a5-b6b6-42a1-820a-25be2ff1578b)
+
+![изображение](https://github.com/user-attachments/assets/d1c3ffe8-59fb-454a-9521-3abad8736eb4)
+
 
 ![image2](https://github.com/user-attachments/assets/ab75d48e-3ccb-481f-be0a-6ee55ea1afda)
 ![image3](https://github.com/user-attachments/assets/a4885c0c-3f66-4b02-8933-58961a890c45)
