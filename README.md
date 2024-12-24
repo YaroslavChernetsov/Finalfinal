@@ -1,5 +1,7 @@
-
+Отчет 
 [Итогавая работа.docx](https://github.com/user-attachments/files/18235116/default.docx)
+Иконка 
+![img icons8](https://github.com/user-attachments/assets/3dce92ee-2eb9-46da-a9ab-7059657e4799)
 
 
 
