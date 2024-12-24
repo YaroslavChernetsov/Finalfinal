@@ -1,4 +1,7 @@
  app и отчет в фаиле documents или в вовторой сылке рядом в коментариях 
+
+
+
 Отчет 
 [Итогавая работа.docx](https://github.com/user-attachments/files/18235116/default.docx)
 Иконка 
