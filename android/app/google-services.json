@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488456374931",
+    "project_id": "socks-c935b",
+    "storage_bucket": "socks-c935b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488456374931:android:f502d17cee91a1d8de9b66",
+        "android_client_info": {
+          "package_name": "com.example.sooock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwsDeCphWUIObnzV0GebxFFjSZPpqIius"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
