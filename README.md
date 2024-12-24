@@ -1,4 +1,7 @@
 
+[Итогавая работа.docx](https://github.com/user-attachments/files/18235116/default.docx)
+
+
 
 ## Программирование корпоративных систем.
 
